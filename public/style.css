@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  font-family: Arial;
+}
+
+input {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  padding: 10px;
+  width: 260px;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  position: absolute;
+  bottom: 20px;
+  left: 290px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
